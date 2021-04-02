@@ -1,2 +1,2 @@
 # Digital Image Processing 
-Creating a program to perform Image Resampling
+Building a Python program to perform Image Resampling
